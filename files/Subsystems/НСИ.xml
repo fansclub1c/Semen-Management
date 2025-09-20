@@ -21,6 +21,7 @@
 			<Content>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Спермогенераторы</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ЕдиницыИзмерения</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.СдачаСемени</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
