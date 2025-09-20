@@ -253,6 +253,7 @@
 			<Subsystem>НСИ</Subsystem>
 			<Catalog>Спермогенераторы</Catalog>
 			<Catalog>ЕдиницыИзмерения</Catalog>
+			<Document>СдачаСемени</Document>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
