@@ -1,4 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
-	<ConfigVersions/>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.ЕдиницыИзмерения" id="dd09a71b-f070-48ff-8b3d-27fdf7df6a73" configVersion="42d4aee605b2ab44b75a0ac4feeb461200000000"/>
+		<Metadata name="Catalog.Спермогенераторы" id="f7b47263-ed5e-4bf7-835d-ae3b5ad59753" configVersion="5c221e2ceba8a448b3a673ac1e3c322400000000"/>
+		<Metadata name="Configuration.SemenManagement" id="989e9ca9-57d7-48a1-8731-0abfdbb0c28f" configVersion="df1c7b5536aee04cb257ce9d6b354b4a00000000"/>
+		<Metadata name="Configuration.SemenManagement.ClientApplicationInterface" id="0f258236-7d63-449a-9810-b7e3a177fedd.b" configVersion="13163be5eff3ce4c88cc7b5009269ffe00000000"/>
+		<Metadata name="Configuration.SemenManagement.Logo" id="0f258236-7d63-449a-9810-b7e3a177fedd.1" configVersion="b6a4c82fa5426b4c80bf2278bc54159600000000"/>
+		<Metadata name="Configuration.SemenManagement.ManagedApplicationModule" id="0f258236-7d63-449a-9810-b7e3a177fedd.6" configVersion="0fb9870df6976644883ce8938c6c611300000000"/>
+		<Metadata name="Configuration.SemenManagement.Splash" id="0f258236-7d63-449a-9810-b7e3a177fedd.2" configVersion="0becb21f373c29488b914c476d6397f700000000"/>
+		<Metadata name="Language.Русский" id="19b58e6a-4fc2-44ec-92d9-e671fed88e17" configVersion="bb30b9ceafed5f429c6c882704ddb6f800000000"/>
+		<Metadata name="Subsystem.НСИ" id="c390662a-fcc0-4153-b3c2-854a60038da9" configVersion="9cb88a8b24a1fe4f982eaa2cd6421a0300000000"/>
+	</ConfigVersions>
 </ConfigDumpInfo>
